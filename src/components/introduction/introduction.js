@@ -13,6 +13,10 @@ export default class Introduction extends Component {
                             Engineer,<br />
                             Ready to roll
                             </h1>
+                            <h3> (Not complete! <br/>
+                            Trying out something <br/>
+                            for fun using a template)
+                            </h3>
                         </div>
                         <div className="intro-scroll">
                             <a href="#about" className="intro-scroll-link smoothscroll">
