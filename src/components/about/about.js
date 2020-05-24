@@ -29,8 +29,7 @@ export default class About extends Component {
                                     Machine Learning, Data Science, AR/VR techniques
                                 </p>
                                 <p>
-                                    When I am not doing software related stuff, I spending my time playing video games, and can't wait to get back to indoor climbing (bouldering) as soon as possible When
-                                    the pandemic gets better!
+                                    When I am not doing software related stuff, I spending my time playing video games, and can't wait to get back to indoor climbing (bouldering) as soon as possible!
                                 </p>
                             </div>
                         </div>
