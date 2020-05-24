@@ -19,13 +19,7 @@ export default class About extends Component {
                                 and Computer Vision to change the
                                 world. A strong aspiration to create
                                 solutions that can improve the lives of
-                                billions, Although I am currently
-                                employed as a Graduate Dynamics
-                                365 developer, I have a passionate
-                                determination to continue pursuing
-                                the role of a Full-stack Developer to
-                                get one step closer in achieving my
-                                dream.
+                                billions.
                                 </p>
                                 
                                 <p>
