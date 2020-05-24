@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/janzenlim21/portfolio/static/css/main.523f09c5.chunk.css",
+    "main.js": "/janzenlim21/portfolio/static/js/main.07743f10.chunk.js",
+    "main.js.map": "/janzenlim21/portfolio/static/js/main.07743f10.chunk.js.map",
+    "runtime-main.js": "/janzenlim21/portfolio/static/js/runtime-main.f04b526e.js",
+    "runtime-main.js.map": "/janzenlim21/portfolio/static/js/runtime-main.f04b526e.js.map",
+    "static/js/2.ba0ead68.chunk.js": "/janzenlim21/portfolio/static/js/2.ba0ead68.chunk.js",
+    "static/js/2.ba0ead68.chunk.js.map": "/janzenlim21/portfolio/static/js/2.ba0ead68.chunk.js.map",
+    "index.html": "/janzenlim21/portfolio/index.html",
+    "precache-manifest.c432f13996e6ec6fe551319d3dd2f1d8.js": "/janzenlim21/portfolio/precache-manifest.c432f13996e6ec6fe551319d3dd2f1d8.js",
+    "service-worker.js": "/janzenlim21/portfolio/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/janzenlim21/portfolio/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.ba0ead68.chunk.js.LICENSE.txt": "/janzenlim21/portfolio/static/js/2.ba0ead68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f04b526e.js",
+    "static/js/2.ba0ead68.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.07743f10.chunk.js"
+  ]
+}
